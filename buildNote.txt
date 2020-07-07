@@ -1,4 +1,5 @@
 llvm和clang可以用llvm 的apt 下載特定版本
 要下載libclang-9-dev  或更高版本
 要下載libgl (opengl)
+要安裝zlib1g-dev 、 zlibc其中一個或都裝
 cmake要有gui版本要先裝 libncurses5
